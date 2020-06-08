@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="My server" uploadOnCheckin="2235af91-2754-4565-b428-7d3746623900">
+    <serverData>
+      <paths name="94.23.164.102 good-host.net">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="My server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/shop_list" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath path="/shop_list/.venv" />
+            <excludedPath path="/shop_list/__pycache__" />
+            <excludedPath path="/shop_list/shop-list.sock" />
+            <excludedPath path="/shop_list/shoplist.sock" />
+            <excludedPath path="/shop_list/ssl" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="My server (root)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="My server" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

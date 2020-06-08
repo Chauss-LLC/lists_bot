@@ -1,0 +1,167 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-29 10:36+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: main.py:83
+msgid "You subscribed to _{}_ list"
+msgstr "Вы подписались на список _{}_"
+
+#: main.py:89
+msgid "You already have list with same name"
+msgstr "У вас уже есть список с таким именем"
+
+#: main.py:96
+msgid "Hello. Create your first list."
+msgstr "Привет. Создай свой первый список."
+
+#: main.py:103 main.py:197
+msgid "*⚙️ Settings ⚙️*"
+msgstr "*⚙️ Настройки ⚙️*"
+
+#: main.py:112
+msgid ""
+"➕ *Creating list* ➕\n"
+" 📝 Write name of your list\n"
+"\n"
+" `You can name it like market where you gonna shopping`\n"
+"\n"
+"Type '-' for cancel"
+msgstr ""
+"➕ *Создание списка* ➕\n"
+" 📝 Напишите имя вашего списка\n"
+"\n"
+" `Вы можете назвать его как магазин в который вы собираетесь идти`\n"
+"\n"
+"Введите '-' для отмены"
+
+#: main.py:122 main.py:157
+msgid "Canceled"
+msgstr "Отменено"
+
+#: main.py:125
+msgid "Too long name. Max length is 255 symbols. Try another name: "
+msgstr "Слишком длинное имя. Максимальная длина - 255 символов. Придумайте другое имя:"
+
+#: main.py:131
+msgid "You have already created list with this name. Try another:"
+msgstr "Вы уже создавали список с таким именем. Попробуйте другое:"
+
+#: main.py:139
+msgid "List _%s_ created"
+msgstr "Список _%s_ создан"
+
+#: main.py:150
+msgid "Choose list for deleting"
+msgstr "Выберите список для удаления"
+
+#: main.py:163
+msgid "This list doesn't exist, choose from keyboard below"
+msgstr "Такой список не существует, выберите список из клавиатуры ниже"
+
+#: main.py:171
+msgid "List _%s_ was deleted"
+msgstr "Список _%s_ удалён"
+
+#: main.py:177
+msgid "You were successfully unsubscribed from list _%s_ "
+msgstr "Вы успешно отписались от списка _%s_ "
+
+#: main.py:184
+msgid ""
+"*⚙️ Settings ⚙️*\n"
+"Choose a language:"
+msgstr ""
+"*⚙️ Настройки ⚙️*\n"
+"Выберите язык:"
+
+#: main.py:203
+msgid "Language changed to "
+msgstr "Язык изменён на "
+
+#: main.py:217
+msgid "This list doesn't exist"
+msgstr "Такой список не существует"
+
+#: main.py:245
+msgid "*Insert new item to buy: *"
+msgstr "*Введите новый элемент: *"
+
+#: main.py:269
+msgid "Too long item name. Cancelled."
+msgstr "Слишком длинное имя элемента. Отменено."
+
+#: main.py:293
+msgid "Choose items for deleting"
+msgstr "Выберите элементы для удаления"
+
+#: main.py:346 main.py:353
+msgid "➕ Create list ➕"
+msgstr "➕ Создать список ➕"
+
+#: main.py:364
+msgid "List name changed."
+msgstr "Имя списка изменено"
+
+#: main.py:372
+msgid "I don't understand you. If you have some problems with bot just type /restart"
+msgstr "Я вас не понимаю. Если вы испытываете какие-то проблемы с ботом, просто введите /restart"
+
+#: markups.py:16
+msgid "✖ Delete list ✖"
+msgstr "✖ Удалить список ✖"
+
+#: markups.py:24
+msgid "⚙️ Settings ⚙️"
+msgstr "⚙️ Настройки ⚙️"
+
+#: markups.py:32
+msgid " Change language"
+msgstr " Изменить язык"
+
+#: markups.py:33
+msgid "Share list"
+msgstr "Поделиться списком"
+
+#: markups.py:61 markups.py:67
+msgid "➕ Add item"
+msgstr "➕ Добавить элемент"
+
+#: markups.py:62 markups.py:68
+msgid "🔗 Share"
+msgstr "🔗 Поделиться"
+
+#: markups.py:63
+msgid "❌ Delete item"
+msgstr "❌ Удалить элемент"
+
+#: markups.py:80 markups.py:105
+msgid "🔙 Back"
+msgstr "🔙 Назад"
+
+#: markups.py:107
+msgid "❌ Delete"
+msgstr "❌ Удалить"
+
+#: markups.py:122
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: markups.py:132
+msgid "Subscribe to my list {}"
+msgstr "Пидписывайся на мой список {}"
